@@ -39,7 +39,7 @@
   "dependencies": {
     "@defillama/sdk": "^2.3.32",
     "@ethersproject/bignumber": "^5.5.0",
-    "@sentry/serverless": "6.2.3",
+    "@sentry/serverless": "7.114.0",
     "@sentry/tracing": "6.2.3",
     "dotenv": "^8.2.0",
     "ethers": "^5.4.6",
